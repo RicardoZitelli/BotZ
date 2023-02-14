@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotZ", "BotZ\BotZ.csproj", "{66589034-2619-466F-A49A-34CE5BF6B5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66589034-2619-466F-A49A-34CE5BF6B5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66589034-2619-466F-A49A-34CE5BF6B5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66589034-2619-466F-A49A-34CE5BF6B5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66589034-2619-466F-A49A-34CE5BF6B5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0B240C-355E-463D-80D6-252061335E2D}
+	EndGlobalSection
+EndGlobal
